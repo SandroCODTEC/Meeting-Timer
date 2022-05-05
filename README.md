@@ -42,7 +42,7 @@ To install the App on your smartphone, go to Google Play by clicking this link [
   </tr>
   <tr>
     <td>
-      You can switch between light and dark theme, share the weather report,
+      You can switch between light and dark theme, share the time control report,
       change the template, share the App with friends and rate the App in the
       store.
     </td>
