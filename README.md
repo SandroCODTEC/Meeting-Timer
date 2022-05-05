@@ -1,7 +1,5 @@
 # Meeting-Timer
 System developed to time the parties in different meetings and events. You can create the meeting or event template as per your need.
-> This App was designed by Edinei Feitosa, Brazil.
-> The software does not use any material from the jw.org website.
 
 ## Installation
 To install the App on your smartphone, go to Google Play by clicking this link [Google Play Link](https://play.google.com/store/apps/details?id=com.codtec.meetingtimer) and then click install.
@@ -114,4 +112,8 @@ Do you want to suggest a new language? Visit the [App Translation](https://githu
 > Your translation suggestion is subject to our license agreement and is not binding.
 
 See our  [license](LICENSE) and [privacy policy](POLÍTICA%20DE%20PRIVACIDADE).
+
+This App was designed by Edinei Feitosa, Brazil.  
+
+
 
